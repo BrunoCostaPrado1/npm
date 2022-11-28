@@ -1,7 +1,13 @@
 {
   "name": "create-ntp-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
+  "bin": "./bin/cli/js",
+  "author": "Bruno Costa Prado",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrunoCostaPrado1/npm"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
