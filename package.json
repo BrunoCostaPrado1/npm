@@ -1,5 +1,5 @@
 {
-  "name": "npm",
+  "name": "create-ntp-app",
   "version": "0.1.0",
   "private": false,
   "scripts": {
